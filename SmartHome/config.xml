@@ -1,0 +1,30 @@
+<?xml version='1.0',encoding='utf_8' ?>
+<config>
+    <lamps>2019/7/15 20:20</lamps>
+    <lampe>2019/7/15 23:00</lampe>
+    <BR_curs>2019/7/23 15:20</BR_curs>
+    <BR_cure>2019/7/26 18:10</BR_cure>
+    <acs>2019/7/14 16:50</acs>
+    <ace>2019/7/15 08:00</ace>
+    <washtimes>2019/7/16 15:00</washtimes>
+    <washtimee>2019/5/12 05:00</washtimee>
+    <tvs>2019/4/12 08:00</tvs>
+    <tve>2019/7/14 16:50</tve>
+    <LR_curs>2019/7/14 16:50</LR_curs>
+    <LR_cure>2019/7/14 16:50</LR_cure>
+    <heater>true</heater>
+    <hanger>false</hanger>
+    <portName>COM4</portName>
+    <baudRate>38400</baudRate>
+    <dataBits>8</dataBits>
+    <stopBits>1</stopBits>
+    <frontTemperature>23</frontTemperature>
+    <endTemperature>40</endTemperature>
+    <humidityFront>50</humidityFront>
+    <humidityEnd>70</humidityEnd>
+    <bwindowsOpen>2019/7/23 11:20</bwindowsOpen>
+    <bwindowsClose>2019/7/23 12:20</bwindowsClose>
+    <mwindowsOpen>2019/7/23 11:20</mwindowsOpen>
+    <mwindowsClose>2019/7/23 12:20</mwindowsClose>
+    <wahsroom>2019/7/23 12:20</wahsroom>
+</config>
